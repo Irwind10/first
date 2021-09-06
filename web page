@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+<html>
+<main>
+<h1>My First Webpage</h1>
+ <h2>Darren Irwin</h2>
+ <img src="https://www.instagram.com/irwind.jpeg/" alt="instagram">
+<p>I still had to work during quarantine so I was still pretty busy. I work at home depot so I still had to go into work and unfortunately could not work remotely. I the store was continued to busy this whole time.</p>
+<h3>Three Things I Like</h3>
+<ul>
+<li>Cars</li>
+<li>Tattoos</li>
+<li>Music</li>
+</ul>
+</main>
+</html>
